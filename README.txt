@@ -1,1 +1,1 @@
-My first Git Hub Page Portfolio!
+My first GitHub Page Portfolio!
